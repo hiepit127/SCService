@@ -9,6 +9,8 @@ target 'Example' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   scservice_pods
+  pod 'RxSwift'
+  pod 'RxCocoa	'
   # Pods for Example
 
 end
